@@ -1,6 +1,6 @@
 <table style="width:100%">
   <tr>
-    <th>![JavRedstone's Github Stats](https://github-readme-stats.vercel.app/api?username=JavRedstone&show_icons=true&theme=transparent)</th>
-    <th>[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JavRedstone&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)</th>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=JavRedstone&show_icons=true&hide_border=true&theme=transparent"/></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavRedstone&layout=donut&langs_count=6&theme=transparent"/></th>
   </tr>
 </table>
